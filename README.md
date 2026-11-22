@@ -121,3 +121,7 @@ This comprehensive testing guide is structured for progressive learning from fun
 ---
 
 *This guide represents comprehensive software testing knowledge used by leading technology companies worldwide. Each section builds upon previous concepts while introducing new specialized skills.*
+
+## License
+
+[MIT License](LICENSE), copyright (c) 2026 Priyanshu Raj. Third-party dependencies, referenced works, and separately attributed materials retain their own rights and license terms.
